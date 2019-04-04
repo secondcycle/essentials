@@ -1,0 +1,4 @@
+/home/nayan/workSpace/Essentials_Linux/essential_scripts/common_libs_installer_script/packages_list/3_list_of_linux_packages.txt
+/home/nayan/workSpace/Essentials_Linux/essential_scripts/common_libs_installer_script/packages_list/2_list_of_linux_packages.txt
+/home/nayan/workSpace/Essentials_Linux/essential_scripts/common_libs_installer_script/packages_list/1_list_of_linux_packages.txt
+EOF

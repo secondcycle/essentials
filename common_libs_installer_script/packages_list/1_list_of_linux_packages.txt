@@ -1,0 +1,28 @@
+python-pip
+g++
+libx11-dev
+libglu1-mesa-dev
+libgle3-dev
+libegl1-mesa-dev
+libxss1 libxmu
+libjpeg62 libpng12-0
+libnova-dev
+freeglut3-dev
+freeglut3-dev 
+build-essential 
+libx11-dev 
+libxmu-dev 
+libxi-dev 
+libgl1-mesa-glx 
+libglu1-mesa 
+libglu1-mesa-dev 
+libglfw3-dev 
+libgles2-mesa-dev
+freeglut3 
+freeglut3-dev
+binutils-gold
+freeglut3
+freeglut3-dev
+binutils-gold
+ipython3
+EOF

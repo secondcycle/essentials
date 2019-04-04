@@ -1,0 +1,954 @@
+
+ File /home/nayan/workSpace/Essentials_Linux/essential_scripts/common_libs_installer_script/1_list_of_linux_packages.txt does not exits, failed to install 
+ 
+
+ File /home/nayan/workSpace/Essentials_Linux/essential_scripts/common_libs_installer_script/2_list_of_linux_packages.txt does not exits, failed to install 
+ 
+
+ File /home/nayan/workSpace/Essentials_Linux/essential_scripts/common_libs_installer_script/3_list_of_linux_packages.txt does not exits, failed to install 
+ 
+
+ File EOF does not exits, failed to install 
+ 
+
+ File EOF does not exits, failed to install 
+ 
+
+ File /home/nayan/workSpace/Essentials_Linux/essential_scripts/common_libs_installer_script/packages_list/3_list_of_linux_packages.txt does not exits, failed to install 
+ 
+
+ File /home/nayan/workSpace/Essentials_Linux/essential_scripts/common_libs_installer_script/packages_list/2_list_of_linux_packages.txt does not exits, failed to install 
+ 
+
+ File /home/nayan/workSpace/Essentials_Linux/essential_scripts/common_libs_installer_script/packages_list/1_list_of_linux_packages.txt does not exits, failed to install 
+ 
+
+ File EOF does not exits, failed to install 
+ 
+
+ File python-pip does not exits, failed to install 
+ 
+
+ File g++ does not exits, failed to install 
+ 
+
+ File libx11-dev does not exits, failed to install 
+ 
+
+ File libglu1-mesa-dev does not exits, failed to install 
+ 
+
+ File libgle3-dev does not exits, failed to install 
+ 
+
+ File libegl1-mesa-dev does not exits, failed to install 
+ 
+
+ File libxss1 libxmu does not exits, failed to install 
+ 
+
+ File libjpeg62 libpng12-0 does not exits, failed to install 
+ 
+
+ File libnova-dev does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File build-essential does not exits, failed to install 
+ 
+
+ File libx11-dev does not exits, failed to install 
+ 
+
+ File libxmu-dev does not exits, failed to install 
+ 
+
+ File libxi-dev does not exits, failed to install 
+ 
+
+ File libgl1-mesa-glx does not exits, failed to install 
+ 
+
+ File libglu1-mesa does not exits, failed to install 
+ 
+
+ File libglu1-mesa-dev does not exits, failed to install 
+ 
+
+ File libglfw3-dev does not exits, failed to install 
+ 
+
+ File libgles2-mesa-dev does not exits, failed to install 
+ 
+
+ File freeglut3 does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File binutils-gold does not exits, failed to install 
+ 
+
+ File freeglut3 does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File binutils-gold does not exits, failed to install 
+ 
+
+ File ipython3 does not exits, failed to install 
+ 
+
+ File EOF does not exits, failed to install 
+ 
+
+ File python-pip does not exits, failed to install 
+ 
+
+ File g++ does not exits, failed to install 
+ 
+
+ File libx11-dev does not exits, failed to install 
+ 
+
+ File libglu1-mesa-dev does not exits, failed to install 
+ 
+
+ File libgle3-dev does not exits, failed to install 
+ 
+
+ File libegl1-mesa-dev does not exits, failed to install 
+ 
+
+ File libxss1 libxmu does not exits, failed to install 
+ 
+
+ File libjpeg62 libpng12-0 does not exits, failed to install 
+ 
+
+ File libnova-dev does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File build-essential does not exits, failed to install 
+ 
+
+ File libx11-dev does not exits, failed to install 
+ 
+
+ File libxmu-dev does not exits, failed to install 
+ 
+
+ File libxi-dev does not exits, failed to install 
+ 
+
+ File libgl1-mesa-glx does not exits, failed to install 
+ 
+
+ File libglu1-mesa does not exits, failed to install 
+ 
+
+ File libglu1-mesa-dev does not exits, failed to install 
+ 
+
+ File libglfw3-dev does not exits, failed to install 
+ 
+
+ File libgles2-mesa-dev does not exits, failed to install 
+ 
+
+ File freeglut3 does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File binutils-gold does not exits, failed to install 
+ 
+
+ File freeglut3 does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File binutils-gold does not exits, failed to install 
+ 
+
+ File ipython3 does not exits, failed to install 
+ 
+
+ File EOF does not exits, failed to install 
+ 
+
+ File /home/nayan/workSpace/Essentials_Linux/essential_scripts/common_libs_installer_script/packages_list/3_list_of_linux_packages.txt does not exits, failed to install 
+ 
+
+ File /home/nayan/workSpace/Essentials_Linux/essential_scripts/common_libs_installer_script/packages_list/2_list_of_linux_packages.txt does not exits, failed to install 
+ 
+
+ File /home/nayan/workSpace/Essentials_Linux/essential_scripts/common_libs_installer_script/packages_list/1_list_of_linux_packages.txt does not exits, failed to install 
+ 
+
+ File EOF does not exits, failed to install 
+ 
+
+ File python-pip does not exits, failed to install 
+ 
+
+ File g++ does not exits, failed to install 
+ 
+
+ File libx11-dev does not exits, failed to install 
+ 
+
+ File libglu1-mesa-dev does not exits, failed to install 
+ 
+
+ File libgle3-dev does not exits, failed to install 
+ 
+
+ File libegl1-mesa-dev does not exits, failed to install 
+ 
+
+ File libxss1 libxmu does not exits, failed to install 
+ 
+
+ File libjpeg62 libpng12-0 does not exits, failed to install 
+ 
+
+ File libnova-dev does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File build-essential does not exits, failed to install 
+ 
+
+ File libx11-dev does not exits, failed to install 
+ 
+
+ File libxmu-dev does not exits, failed to install 
+ 
+
+ File libxi-dev does not exits, failed to install 
+ 
+
+ File libgl1-mesa-glx does not exits, failed to install 
+ 
+
+ File libglu1-mesa does not exits, failed to install 
+ 
+
+ File libglu1-mesa-dev does not exits, failed to install 
+ 
+
+ File libglfw3-dev does not exits, failed to install 
+ 
+
+ File libgles2-mesa-dev does not exits, failed to install 
+ 
+
+ File freeglut3 does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File binutils-gold does not exits, failed to install 
+ 
+
+ File freeglut3 does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File binutils-gold does not exits, failed to install 
+ 
+
+ File ipython3 does not exits, failed to install 
+ 
+
+ File EOF does not exits, failed to install 
+ 
+
+ File python-pip does not exits, failed to install 
+ 
+
+ File g++ does not exits, failed to install 
+ 
+
+ File libx11-dev does not exits, failed to install 
+ 
+
+ File libglu1-mesa-dev does not exits, failed to install 
+ 
+
+ File libgle3-dev does not exits, failed to install 
+ 
+
+ File libegl1-mesa-dev does not exits, failed to install 
+ 
+
+ File libxss1 libxmu does not exits, failed to install 
+ 
+
+ File libjpeg62 libpng12-0 does not exits, failed to install 
+ 
+
+ File libnova-dev does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File build-essential does not exits, failed to install 
+ 
+
+ File libx11-dev does not exits, failed to install 
+ 
+
+ File libxmu-dev does not exits, failed to install 
+ 
+
+ File libxi-dev does not exits, failed to install 
+ 
+
+ File libgl1-mesa-glx does not exits, failed to install 
+ 
+
+ File libglu1-mesa does not exits, failed to install 
+ 
+
+ File libglu1-mesa-dev does not exits, failed to install 
+ 
+
+ File libglfw3-dev does not exits, failed to install 
+ 
+
+ File libgles2-mesa-dev does not exits, failed to install 
+ 
+
+ File freeglut3 does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File binutils-gold does not exits, failed to install 
+ 
+
+ File freeglut3 does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File binutils-gold does not exits, failed to install 
+ 
+
+ File ipython3 does not exits, failed to install 
+ 
+
+ File EOF does not exits, failed to install 
+ 
+
+ File python-pip does not exits, failed to install 
+ 
+
+ File g++ does not exits, failed to install 
+ 
+
+ File libx11-dev does not exits, failed to install 
+ 
+
+ File libglu1-mesa-dev does not exits, failed to install 
+ 
+
+ File libgle3-dev does not exits, failed to install 
+ 
+
+ File libegl1-mesa-dev does not exits, failed to install 
+ 
+
+ File libxss1 libxmu does not exits, failed to install 
+ 
+
+ File libjpeg62 libpng12-0 does not exits, failed to install 
+ 
+
+ File libnova-dev does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File build-essential does not exits, failed to install 
+ 
+
+ File libx11-dev does not exits, failed to install 
+ 
+
+ File libxmu-dev does not exits, failed to install 
+ 
+
+ File libxi-dev does not exits, failed to install 
+ 
+
+ File libgl1-mesa-glx does not exits, failed to install 
+ 
+
+ File libglu1-mesa does not exits, failed to install 
+ 
+
+ File libglu1-mesa-dev does not exits, failed to install 
+ 
+
+ File libglfw3-dev does not exits, failed to install 
+ 
+
+ File libgles2-mesa-dev does not exits, failed to install 
+ 
+
+ File freeglut3 does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File binutils-gold does not exits, failed to install 
+ 
+
+ File freeglut3 does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File binutils-gold does not exits, failed to install 
+ 
+
+ File ipython3 does not exits, failed to install 
+ 
+
+ File EOF does not exits, failed to install 
+ 
+
+ File python-pip does not exits, failed to install 
+ 
+
+ File g++ does not exits, failed to install 
+ 
+
+ File libx11-dev does not exits, failed to install 
+ 
+
+ File libglu1-mesa-dev does not exits, failed to install 
+ 
+
+ File libgle3-dev does not exits, failed to install 
+ 
+
+ File libegl1-mesa-dev does not exits, failed to install 
+ 
+
+ File libxss1 libxmu does not exits, failed to install 
+ 
+
+ File libjpeg62 libpng12-0 does not exits, failed to install 
+ 
+
+ File libnova-dev does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File build-essential does not exits, failed to install 
+ 
+
+ File libx11-dev does not exits, failed to install 
+ 
+
+ File libxmu-dev does not exits, failed to install 
+ 
+
+ File libxi-dev does not exits, failed to install 
+ 
+
+ File libgl1-mesa-glx does not exits, failed to install 
+ 
+
+ File libglu1-mesa does not exits, failed to install 
+ 
+
+ File libglu1-mesa-dev does not exits, failed to install 
+ 
+
+ File libglfw3-dev does not exits, failed to install 
+ 
+
+ File libgles2-mesa-dev does not exits, failed to install 
+ 
+
+ File freeglut3 does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File binutils-gold does not exits, failed to install 
+ 
+
+ File freeglut3 does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File binutils-gold does not exits, failed to install 
+ 
+
+ File ipython3 does not exits, failed to install 
+ 
+
+ File EOF does not exits, failed to install 
+ 
+
+ File python-pip does not exits, failed to install 
+ 
+
+ File g++ does not exits, failed to install 
+ 
+
+ File libx11-dev does not exits, failed to install 
+ 
+
+ File libglu1-mesa-dev does not exits, failed to install 
+ 
+
+ File libgle3-dev does not exits, failed to install 
+ 
+
+ File libegl1-mesa-dev does not exits, failed to install 
+ 
+
+ File libxss1 libxmu does not exits, failed to install 
+ 
+
+ File libjpeg62 libpng12-0 does not exits, failed to install 
+ 
+
+ File libnova-dev does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File build-essential does not exits, failed to install 
+ 
+
+ File libx11-dev does not exits, failed to install 
+ 
+
+ File libxmu-dev does not exits, failed to install 
+ 
+
+ File libxi-dev does not exits, failed to install 
+ 
+
+ File libgl1-mesa-glx does not exits, failed to install 
+ 
+
+ File libglu1-mesa does not exits, failed to install 
+ 
+
+ File libglu1-mesa-dev does not exits, failed to install 
+ 
+
+ File libglfw3-dev does not exits, failed to install 
+ 
+
+ File libgles2-mesa-dev does not exits, failed to install 
+ 
+
+ File freeglut3 does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File binutils-gold does not exits, failed to install 
+ 
+
+ File freeglut3 does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File binutils-gold does not exits, failed to install 
+ 
+
+ File ipython3 does not exits, failed to install 
+ 
+
+ File EOF does not exits, failed to install 
+ 
+
+ File python-pip does not exits, failed to install 
+ 
+
+ File g++ does not exits, failed to install 
+ 
+
+ File libx11-dev does not exits, failed to install 
+ 
+
+ File libglu1-mesa-dev does not exits, failed to install 
+ 
+
+ File libgle3-dev does not exits, failed to install 
+ 
+
+ File libegl1-mesa-dev does not exits, failed to install 
+ 
+
+ File libxss1 libxmu does not exits, failed to install 
+ 
+
+ File libjpeg62 libpng12-0 does not exits, failed to install 
+ 
+
+ File libnova-dev does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File build-essential does not exits, failed to install 
+ 
+
+ File libx11-dev does not exits, failed to install 
+ 
+
+ File libxmu-dev does not exits, failed to install 
+ 
+
+ File libxi-dev does not exits, failed to install 
+ 
+
+ File libgl1-mesa-glx does not exits, failed to install 
+ 
+
+ File libglu1-mesa does not exits, failed to install 
+ 
+
+ File libglu1-mesa-dev does not exits, failed to install 
+ 
+
+ File libglfw3-dev does not exits, failed to install 
+ 
+
+ File libgles2-mesa-dev does not exits, failed to install 
+ 
+
+ File freeglut3 does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File binutils-gold does not exits, failed to install 
+ 
+
+ File freeglut3 does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File binutils-gold does not exits, failed to install 
+ 
+
+ File ipython3 does not exits, failed to install 
+ 
+
+ File EOF does not exits, failed to install 
+ 
+
+ File python-pip does not exits, failed to install 
+ 
+
+ File g++ does not exits, failed to install 
+ 
+
+ File libx11-dev does not exits, failed to install 
+ 
+
+ File libglu1-mesa-dev does not exits, failed to install 
+ 
+
+ File libgle3-dev does not exits, failed to install 
+ 
+
+ File libegl1-mesa-dev does not exits, failed to install 
+ 
+
+ File libxss1 libxmu does not exits, failed to install 
+ 
+
+ File libjpeg62 libpng12-0 does not exits, failed to install 
+ 
+
+ File libnova-dev does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File build-essential does not exits, failed to install 
+ 
+
+ File libx11-dev does not exits, failed to install 
+ 
+
+ File libxmu-dev does not exits, failed to install 
+ 
+
+ File libxi-dev does not exits, failed to install 
+ 
+
+ File libgl1-mesa-glx does not exits, failed to install 
+ 
+
+ File libglu1-mesa does not exits, failed to install 
+ 
+
+ File libglu1-mesa-dev does not exits, failed to install 
+ 
+
+ File libglfw3-dev does not exits, failed to install 
+ 
+
+ File libgles2-mesa-dev does not exits, failed to install 
+ 
+
+ File freeglut3 does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File binutils-gold does not exits, failed to install 
+ 
+
+ File freeglut3 does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File binutils-gold does not exits, failed to install 
+ 
+
+ File ipython3 does not exits, failed to install 
+ 
+
+ File EOF does not exits, failed to install 
+ 
+
+ File python-pip does not exits, failed to install 
+ 
+
+ File g++ does not exits, failed to install 
+ 
+
+ File libx11-dev does not exits, failed to install 
+ 
+
+ File libglu1-mesa-dev does not exits, failed to install 
+ 
+
+ File libgle3-dev does not exits, failed to install 
+ 
+
+ File libegl1-mesa-dev does not exits, failed to install 
+ 
+
+ File libxss1 libxmu does not exits, failed to install 
+ 
+
+ File libjpeg62 libpng12-0 does not exits, failed to install 
+ 
+
+ File libnova-dev does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File build-essential does not exits, failed to install 
+ 
+
+ File libx11-dev does not exits, failed to install 
+ 
+
+ File libxmu-dev does not exits, failed to install 
+ 
+
+ File libxi-dev does not exits, failed to install 
+ 
+
+ File libgl1-mesa-glx does not exits, failed to install 
+ 
+
+ File libglu1-mesa does not exits, failed to install 
+ 
+
+ File libglu1-mesa-dev does not exits, failed to install 
+ 
+
+ File libglfw3-dev does not exits, failed to install 
+ 
+
+ File libgles2-mesa-dev does not exits, failed to install 
+ 
+
+ File freeglut3 does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File binutils-gold does not exits, failed to install 
+ 
+
+ File freeglut3 does not exits, failed to install 
+ 
+
+ File freeglut3-dev does not exits, failed to install 
+ 
+
+ File binutils-gold does not exits, failed to install 
+ 
+
+ File ipython3 does not exits, failed to install 
+ 
+
+ File EOF does not exits, failed to install 
+ 
+
+ File apt-listchanges does not exits, failed to install 
+ 
+
+ File apt-listdifferences does not exits, failed to install 
+ 
+
+ File needrestart does not exits, failed to install 
+ 
+
+ File debsecan does not exits, failed to install 
+ 
+
+ File debsums does not exits, failed to install 
+ 
+
+ File fail2ban does not exits, failed to install 
+ 
+
+ File python-magic does not exits, failed to install 
+ 
+
+ File python-gi does not exits, failed to install 
+ 
+
+ File python-gi-cairo does not exits, failed to install 
+ 
+
+ File gir1.2-gtk-3.0 does not exits, failed to install 
+ 
+
+ File gir1.2-poppler-0.18 does not exits, failed to install 
+ 
+
+ File mupdf does not exits, failed to install 
+ 
+
+ File mupdf-tools does not exits, failed to install 
+ 
+
+ File default-jre does not exits, failed to install 
+ 
+
+ File default-jdk does not exits, failed to install 
+ 
+
+ File python-tk does not exits, failed to install 
+ 
+
+ File xhtml2pdf does not exits, failed to install 
+ 
+
+ File python3-pyqt5 does not exits, failed to install 
+ 
+
+ File pyqt5-dev-tools does not exits, failed to install 
+ 
+
+ File qttools5-dev-tools does not exits, failed to install 
+ 
+
+ File libgtk2.0-dev does not exits, failed to install 
+ 
+
+ File gtk+3.0 does not exits, failed to install 
+ 
+
+ File libpango1.0-0/bionic does not exits, failed to install 
+ 
+
+ File EOF does not exits, failed to install 
+ 
+
+ File EOF does not exits, failed to install 
+ 
